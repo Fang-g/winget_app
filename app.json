@@ -1,0 +1,132 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate": "2025-04-16T21:30:23.693-00:00",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "7zip.7zip"
+                },
+                {
+                    "PackageIdentifier": "Tencent.TencentMeeting"
+                },
+                {
+                    "PackageIdentifier": "Google.Chrome"
+                },
+                {
+                    "PackageIdentifier": "appmakes.Typora"
+                },
+                {
+                    "PackageIdentifier": "voidtools.Everything"
+                },
+                {
+                    "PackageIdentifier": "EclipseAdoptium.Temurin.11.JDK"
+                },
+                {
+                    "PackageIdentifier": "JetBrains.IntelliJIDEA.Ultimate"
+                },
+                {
+                    "PackageIdentifier": "Tonec.InternetDownloadManager"
+                },
+                {
+                    "PackageIdentifier": "Sogou.SogouInput"
+                },
+                {
+                    "PackageIdentifier": "Tencent.WeChat"
+                },
+                {
+                    "PackageIdentifier": "Tencent.QQ"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WindowsInstallationAssistant"
+                },
+                {
+                    "PackageIdentifier": "Mobatek.MobaXterm"
+                },
+                {
+                    "PackageIdentifier": "Python.Launcher"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.8"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
+                },
+                {
+                    "PackageIdentifier": "Tencent.WeCom"
+                },
+                {
+                    "PackageIdentifier": "Baidu.BaiduNetdisk"
+                },
+                {
+                    "PackageIdentifier": "SumatraPDF.SumatraPDF"
+                },
+                {
+                    "PackageIdentifier": "cURL.cURL"
+                },
+                {
+                    "PackageIdentifier": "lyswhut.lx-music-desktop"
+                },
+                {
+                    "PackageIdentifier": "Xmind.Xmind"
+                },
+                {
+                    "PackageIdentifier": "Telegram.TelegramDesktop"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudioCode"
+                },
+                {
+                    "PackageIdentifier": "Alibaba.QuarkCloudDrive"
+                },
+                {
+                    "PackageIdentifier": "Python.Python.3.12"
+                },
+                {
+                    "PackageIdentifier": "Youdao.YoudaoTranslate"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.AppInstaller"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.UI.Xaml.2.8"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VCLibs.Desktop.14"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DevHome"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WindowsTerminal"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WSL"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://cdn.winget.microsoft.com/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        },
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "9P1WXPKB68KX"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+                "Identifier": "StoreEdgeFD",
+                "Name": "msstore",
+                "Type": "Microsoft.Rest"
+            }
+        }
+    ],
+    "WinGetVersion": "1.10.340"
+}
